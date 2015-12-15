@@ -12,7 +12,7 @@ Nada, absolutamente nada além do prazer de poder ajudar aqueles que tem intuito
 
 ## Como vocês podem ajudar?
 Todos podem ajudar de várias formas, seguem algumas:
-- Convidando pessoas que tenham interesse em virem aprender conosco
+- Convidando pessoas que tenham interesse em virem aprender conosco.
 - Transmitindo o conteúdo/conhecimento que lhes for ensinado, para outras pessoas que também desejam aprender.
 - E por fim me questionando `pessoalmente` sobre como ajudar!
 
@@ -30,4 +30,5 @@ Todos são convidados a aprender de forma divertida e colaborativa, desde que, a
 - 1 notebook **(ideal)**, mas se você não tiver, o caderno com lábios ou caneta já é o suficiente!
 
 > Talk is cheap. Show me the code.
+>
 > Linus Torvalds
