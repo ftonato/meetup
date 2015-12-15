@@ -2,7 +2,7 @@
 Conheça nosso [Código de conduta](./codigo-de-conduta.md)
 
 ## Qual nosso intuito
-Auxiliar pessoas que desejam aprender a arte da programação de forma simples e um ambiente confortável!
+Auxiliar pessoas que desejam aprender a arte da programação de forma simples e em um ambiente confortável!
 
 ## #DevOpenHouse
 http://jonatasemidio.github.io/devopenhouse/
