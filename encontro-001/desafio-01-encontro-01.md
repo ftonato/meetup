@@ -1,10 +1,9 @@
-
 ## Desafio encontro 01
 
 #### Calculo do IMC
 Ajude-nos a criar um programa para descobrir o nosso índice de massa corporal.
 
-Segue abaixo a tabela com algumas regras para auxílio durante a criação do programa
+Segue abaixo a tabela com algumas regras para auxílio durante a criação do programa:
 
 Condição | IMC em Mulheres | IMC em Homens
 ------------ | ------------- | -------------
