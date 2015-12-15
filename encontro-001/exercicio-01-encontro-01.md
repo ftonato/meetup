@@ -13,7 +13,7 @@ C) Crie uma variavel chamada `nome` e guarde o seu nome dentro dela:
 nome = # Continue escrevendo o trecho de código que falta
 ```
 
-D) Crie uma variavel chamada `primeiroNumero` e uma chamada `segundoNumero` com os seguintes valores `10` e `5` (na ordem que foram declaradas):
+D) Crie uma variável chamada `primeiroNumero` e uma chamada `segundoNumero` com os seguintes valores `10` e `5` (na ordem que foram declaradas):
 
 ```python
 # Escreva aqui sua primeira variável e atribua o valor correspondente a ela.
@@ -33,5 +33,7 @@ E) Crie variáveis que armazenem um valor numéricos, um flutuante e uma String,
 #### Operações
 
 F) Operadores Relacionais
+
 G) Operadores Lógicos
+
 H) Condições
