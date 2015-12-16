@@ -32,7 +32,25 @@ E) Crie variáveis que armazenem um valor numéricos, um flutuante e uma String,
 
 #### Operações
 
-F) Operadores Relacionais
+F) Adicione um resultado ao lado de cada `print` exibindo qual será o valor da resposta:
+```python
+print (10 > 5)
+print (10 >= 10)
+print (10 < 5)
+print (10 == 5)
+print (8 != 8)
+print (5 <= 6)
+print (True != False)
+
+a, b, c = 3, 3, 1
+
+print (a > b)
+print (a > c)
+print (b > a)
+print (b > c)
+print (c > a)
+print (c > b)
+```
 
 G) Operadores Lógicos
 
