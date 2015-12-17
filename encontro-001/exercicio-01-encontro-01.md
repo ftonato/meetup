@@ -52,6 +52,13 @@ print (c > a)
 print (c > b)
 ```
 
-G) Operadores Lógicos
+G) Quais os resultados das operações abaixo:
+```python
+a =  (6 < 8) or (3 > 7)
+b = (((10 / 2) % 6 ) > 5) or (3 < (2 % 2))
+c = (((18 - 6 + 13) % 2 ) * 5 <= 5) and (6 >= 8 or 96-14 < (13*6+4 / 2))
+```
 
-H) Condições
+H) Faça um programa que verifique se o aluno foi aprovado na escola.
+Na escola há três avaliações e a média é 6.
+Pergunte ao usuário quais foram as notas obtidas e exiba a mensagem `Você foi aprovado/reprovado, sua nota final foi **.`, substitua os asteriscos `**` pela nota final no aluno.
