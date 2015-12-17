@@ -7,6 +7,36 @@ Autor: Ademílson F. Tonato
 ```
 
 ##### (B)
+```
+# codigo
+```
+
+##### (C)
+```python
+# codigo
+```
+
+##### (D)
+```python
+# codigo
+```
+
+##### (E)
+```python
+# codigo
+```
+
+##### (F)
+```python
+# codigo
+```
+
+##### (G)
+```python
+# codigo
+```
+
+##### (H)
 ```python
 # codigo
 ```
