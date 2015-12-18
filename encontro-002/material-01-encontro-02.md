@@ -36,6 +36,8 @@
 
 
 ## Exercícios resolvidos
+- [@ftonato](./../encontro-001/exercicios-resolvidos/exercicio-01-encontro-01-ftonato.md)
 
 
-## Desafio resolvido
+## Desafios resolvidos
+- [@ftonato](./../encontro-001/exercicios-resolvidos/desafio-01-encontro-01-ftonato.md)
