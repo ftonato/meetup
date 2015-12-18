@@ -7,7 +7,7 @@ Auxiliar pessoas que desejam aprender a arte da programação de forma simples e
 ## #DevOpenHouse
 http://jonatasemidio.github.io/devopenhouse/
 
-## O que eu vou ganhar com isso:
+## O que eu ganharei com isso
 Nada, absolutamente nada além do prazer de poder ajudar aqueles que tem intuito de aprender!
 
 ## Como vocês podem ajudar?
