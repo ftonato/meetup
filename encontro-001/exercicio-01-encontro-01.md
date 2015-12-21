@@ -22,12 +22,12 @@ D) Crie uma variável chamada `primeiroNumero` e uma chamada `segundoNumero` com
 
 E) Crie variáveis que armazenem um valor numéricos, um flutuante e uma String, exiba-os com com comando `print`:
 ```python
-# Escreva aqui sua primeira variável e atribua um valor do tipo numérico.
-# Escreva aqui sua primeira variável e atribua um valor do tipo flutuante.
-# Escreva aqui sua primeira variável e atribua um valor do tipo String.
-# Exiba o valor da primeira variável
-# Exiba o valor da segunda variável
-# Exiba o valor da terceira variável
+# Escreva aqui sua 1º variável e atribua um valor do tipo numérico.
+# Escreva aqui sua 2º variável e atribua um valor do tipo flutuante.
+# Escreva aqui sua 3º variável e atribua um valor do tipo String.
+# Exiba o valor da 1º variável
+# Exiba o valor da 2º variável
+# Exiba o valor da 3º variável
 ```
 
 #### Operações
