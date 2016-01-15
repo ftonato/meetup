@@ -5,7 +5,7 @@ Conheça nosso [Código de conduta](./codigo-de-conduta.md)
 Auxiliar pessoas que desejam aprender a arte da programação de forma simples e em um ambiente confortável!
 
 ## #DevOpenHouse
-http://jonatasemidio.github.io/devopenhouse/
+https://github.com/devopenhouse/devopenhouse.github.io
 
 ## O que eu ganharei com isso
 Nada, absolutamente nada além do prazer de poder ajudar aqueles que tem intuito de aprender!
