@@ -1,4 +1,4 @@
-# meetup DevOpenHouse
+## meetup #DevOpenHouse <>
 
 ### Qual nosso intuito
 Auxiliar pessoas que desejam aprender a arte da programação de forma simples e em um ambiente confortável!
