@@ -58,7 +58,7 @@ print (c > a)
 print (c > b)
 ```
 
-G) Quais os os valores das variáveis após as seguintes operações:
+G) Quais os valores das variáveis após as seguintes operações:
 ```python
 a =  (6 < 8) or (3 > 7)
 b = (((10 / 2) % 6 ) > 5) or (3 < (2 % 2))
