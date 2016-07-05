@@ -26,7 +26,7 @@ D) Crie uma variável chamada `primeiroNumero` e uma chamada `segundoNumero` com
 # Escreva aqui sua segunda variável e atribua o valor correspondente a ela.
 ```
 
-E) Crie variáveis que armazenem um valor do tipo numérico inteiro, um do tipo flutuante e um do tipo String, exiba-os com com comando `print`:
+E) Crie variáveis que armazenem um valor do tipo numérico inteiro, um do tipo flutuante e um do tipo String, exiba-os com o comando `print`:
 ```python
 # Escreva aqui sua 1º variável e atribua um valor do tipo numérico.
 # Escreva aqui sua 2º variável e atribua um valor do tipo flutuante.

@@ -8,6 +8,7 @@
 	- [ ] Listas, Tuplas e Sets
 	- [ ] Dicionários
 - [ ] Operações
+	- [ ] Condições
 	- [ ] Repetições
 - [ ] Exercícios
 - [ ] Desafio
