@@ -8,7 +8,7 @@ lista_de_inteiros = # Escreva aqui sua lista com valores do tipo numérico intei
 # Exiba o valor da variável lista_de_inteiros
 ```
 
-B) Escreva uma lista com 3 itens apenas com valores de tipo String, exiba-os com o comando `print`::
+B) Escreva uma lista com 3 itens apenas com valores de tipo String, exiba-os com o comando `print`:
 ```python
 lista_de_string = # Escreva aqui sua lista com valores do tipo String.
 # Exiba o valor da variável lista_de_string
