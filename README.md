@@ -26,7 +26,7 @@ Todos são convidados a aprender de forma divertida e colaborativa, desde que, a
 
 ### Materiais necessários
 - Um caderno e um lápis ou caneta, mas se você não tiver, daremos um jeito ;)
-- 1 notebook **(ideal)**, mas se você não tiver, o caderno com lápis ou caneta já é o suficiente!
+- 1 notebook **(ideal)**, mas se você não tiver, os itens acima serão o suficiente!
 
 ### Código de conduta
 Conheça nosso [Código de conduta](./codigo-de-conduta.md)
@@ -36,3 +36,9 @@ Conheça nosso [Código de conduta](./codigo-de-conduta.md)
 > Talk is cheap. Show me the code.
 >
 > Linus Torvalds
+
+----------
+
+### Licença
+
+[MIT](./LICENSE) &copy; Ademílson F. Tonato
